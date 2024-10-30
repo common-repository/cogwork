@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CogWork\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-15 21:20+0000\n"
+"PO-Revision-Date: 2023-11-14 15:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: Svenska\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1"
+
+#: php-classes/cwOptions.php:97
+#, fuzzy
+#| msgid ""
+#| "Activity booking and other types of content can be retrieved from Mina "
+#| "Aktiviteter without adding the server password. Server password is need "
+#| "for activating Mina Aktiviteter login and retrieve private data"
+msgid ""
+"Activity booking and other types of content can be retrieved from Mina "
+"Aktiviteter without adding the server password. Server password is needed "
+"for activating Mina Aktiviteter login and retrieve private data"
+msgstr ""
+"Webbshoppen / aktivitetsbokningen och annat innehåll kan hämtas från Mina "
+"Aktiviteter utan att ange serverlösenord. Serverlösenord behövs för att "
+"aktivera Mina Aktiviteter inloggning och hämta skyddad data."
+
+#: php-classes/cwOptions.php:107
+msgid ""
+"Activity booking, membership button, calendar list and other content from "
+"Mina Aktiviteter can be added to this website with the CogWork block in the "
+"WordPress Gutenberg Editor."
+msgstr ""
+"Aktivitetsbokning / webbshop, medlemsknapp, kalenderlista och annat innehåll "
+"kan hämtas från Mina Aktiviteter och visas på denna webbplats med CogWork "
+"blocket i WordPress Gutenberg editor."
+
+#: php-classes/cwOptions.php:217
+msgid "Administrators"
+msgstr "Adminstratörer"
+
+#: php-classes/cwOptions.php:223
+#| msgid "All Mina Aktiviteter users"
+msgid "All Mina Aktiviteter-users"
+msgstr "Alla Mina Aktiviteter-användare"
+
+#. Name of the plugin
+msgid "CogWork"
+msgstr ""
+
+#. Author of the plugin
+msgid "CogWork AB"
+msgstr ""
+
+#: php-classes/cwOptions.php:262
+#| msgid ""
+#| "Connection established with Mina Aktiviteter. Check if the organisation "
+#| "code is correct and that there are visible activities i Mina Aktiviteter, "
+#| "if the shop is not displayed below."
+msgid ""
+"Connection established with Mina Aktiviteter. The shop with activities is "
+"displaced below. Check if the organisation code is correct and that there "
+"are visible activities in Mina Aktiviteter, if the shop is not displayed "
+"below."
+msgstr ""
+"Anslutning etablerad med Mina Aktiviteter. Kontrollera att "
+"organisationskoden är korrekt och att aktiviteterna är synliga i Mina "
+"Aktiviteter, om webbshopen inte visas nedan."
+
+#: php-classes/cwOptions.php:259 php-classes/cwOptions.php:264
+msgid "Connection to Mina Aktiviteter failed"
+msgstr "Anslutning till Mina Aktiviteter misslyckades."
+
+#. Description of the plugin
+#| msgid ""
+#| "Enables shortcodes that loads and displays content from CogWork "
+#| "(MinaAktiviteter/Dans.se)"
+msgid ""
+"Enables shortcodes that loads and displays content from CogWork "
+"(MinaAktiviteter/Dans.se/Idrott.se)"
+msgstr "Byter ut WordPress shortcodes mot innehåll från CW"
+
+#: php-classes/cwOptions.php:37
+msgid "Enter organisation code to start using the plugin"
+msgstr "Ange organisationskod för att börja använda tillägget"
+
+#. Author URI of the plugin
+msgid "https://minaaktiviteter.se/cogwork/"
+msgstr "https://minaaktiviteter.se/cogwork/"
+
+#. URI of the plugin
+msgid "https://minaaktiviteter.se/help/api/wordpress/"
+msgstr "https://minaaktiviteter.se/help/api/wordpress/"
+
+#: php-classes/cwOptions.php:86
+msgid "login"
+msgstr "inloggning"
+
+#: php-scripts/login.php:46 php-scripts/login.php:82
+msgid "Login method"
+msgstr "Inloggningsmetod"
+
+#: php-classes/cwOptions.php:110
+msgid "Login through "
+msgstr "Logga in via "
+
+#: php-classes/cwOptions.php:238
+msgid ""
+"Mina Aktiviteter login not enabled. Mina Aktiviteter users can login as "
+"WordPresss users if they get new password. Their accounts can be deleted if "
+"they no longer should be able to login to WordPress"
+msgstr ""
+"Mina Aktiviteter-inloggning ej aktiverad. Mina Aktiviteter användare kan "
+"logga in som WordPress användare om de får nytt lösenord. Deras konton kan "
+"tas bort om de inte längre ska kunna logga in till WordPress."
+
+#: php-classes/cwOptions.php:229
+#| msgid "Mina Aktiviteter login enabled"
+msgid "Mina Aktiviteter-login enabled"
+msgstr "Mina Aktiviteter-inloggning aktiverat."
+
+#: php-classes/cwOptions.php:114
+msgid "More information is in the tutorial"
+msgstr "Mer information finns i handledningen"
+
+#: php-classes/cwOptions.php:47
+msgid "Organisation code"
+msgstr "Organisationskod"
+
+#: php-classes/cwOptions.php:65
+msgid "Protocol"
+msgstr "Protokoll"
+
+#: php-classes/cwOptions.php:95
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: php-classes/cwOptions.php:75
+msgid "Server password"
+msgstr "Serverlösenord"
+
+#: php-classes/cwOptions.php:80
+msgid "Server password is saved"
+msgstr "Serverlösenord sparat"
+
+#: php-classes/cwOptions.php:108
+msgid ""
+"Shortcodes can also be directly added to a webpage if another editor is used "
+"on this website. For example [cw shop eventGroup=\"lindyhop\"]."
+msgstr ""
+"Kortkoder kan även direkt läggas till på en webbsida om en annan redigerare "
+"används på denna webbplats. Till exempel [cw shop eventGroup=\"lindyhop\"]."
+
+#: php-classes/cwOptions.php:115
+msgid "Test getting content from "
+msgstr "Test av att hämta innehåll från"
+
+#: php-classes/cwOptions.php:106
+msgid "Usage"
+msgstr "Användning"
+
+#: php-classes/cwOptions.php:112
+msgid ""
+"User can now log in to this website with their Mina Aktiviteter login "
+"credentials."
+msgstr ""
+"Användaren kan nu logga in på denna webbsida med inloggningsuppgifter från "
+"Mina Aktiviteter."
+
+#: php-classes/cwOptions.php:214
+msgid "users"
+msgstr "användare"
+
+#: php-classes/cwOptions.php:52
+msgid "Website or server"
+msgstr "Webbplats eller server"
